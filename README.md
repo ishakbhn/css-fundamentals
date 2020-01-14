@@ -1,4 +1,4 @@
-#CSS Fundamentals
+# CSS Fundamentals
 
 This is an exercise of putting it all together.
 
